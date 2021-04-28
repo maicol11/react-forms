@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+table, th, td {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+th,td {
+  padding: 5px;
+}
+
+.filter-container {
+  width: 30%;
+
+}
+.table-container {
+  width: 69%;
+  
+}
+.main-container {
+  display: flex;
+}

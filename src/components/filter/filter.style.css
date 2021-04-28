@@ -1,0 +1,14 @@
+select, input {
+    margin-left: 15px;
+    padding: 3px;
+    border-radius: 5px;
+}
+label {
+    text-align: justify;
+}
+.input-container, button {
+    padding: 5px;
+}
+button {
+    margin-top: 5px;
+}
